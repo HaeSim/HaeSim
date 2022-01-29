@@ -1,10 +1,10 @@
-<p align="center"><a href="https://HaeSim.github.io"><img width="80%" src="https://avatars.githubusercontent.com/u/23281453?v=4"></a></P>
+<p align="center"><a href="https://HaeSim.github.io"><img width="80%" src="https://avatars.githubusercontent.com/u/23281453?s=512&v=4"></a></P>
 ⇧ Click here and go to my blog
 <br />
 <br />
 <br />
 
-I'm a self-taught Web developer from Korea :)
+Hi there :) I'm a self-taught Web Engineer from Korea.
 <br />
 
 **About me**
