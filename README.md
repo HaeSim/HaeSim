@@ -2,7 +2,6 @@
 <p align="center">⇧ Click here and go to my blog</p>
 <br />
 <br />
-<br />
 
 Hi there :) I'm a self-taught Web Engineer from Korea.
 <br />
@@ -28,7 +27,7 @@ Hi there :) I'm a self-taught Web Engineer from Korea.
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
 <img alt="SQLServer"src="https://img.shields.io/badge/SQLServer-2F2F1F?&style=flat-square&logo=microsoft-sql-server"></a> &nbsp 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
+<!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp  -->
 <!-- <img alt="기술명" src="https://img.shields.io/badge/기술명-색상?style=flat-square&logo=로고명&logoColor=white"/></a> &nbsp  -->
 <br />
 <br />
