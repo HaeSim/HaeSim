@@ -14,8 +14,7 @@ Hi there :) I'm a self-taught Web Engineer from Korea.
 
 - 💬 Ask me about anything [here](https://github.com/HaeSim/HaeSim/issues)
   <br />
-
-**Languages and Tools:**
+  **Languages and Tools:**
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -32,8 +31,10 @@ Hi there :) I'm a self-taught Web Engineer from Korea.
 <br />
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HaeSim&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaeSim&layout=compact&theme=react&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HaeSim&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaeSim&layout=compact&hide_border=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haesim)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 <br />
