@@ -34,9 +34,8 @@ Hi there :) I'm a self-taught Web Engineer from Korea.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HaeSim&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaeSim&layout=compact&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-<center>
 [![trophy](https://github-profile-trophy.vercel.app/?username=haesim)](https://github.com/ryo-ma/github-profile-trophy)
-</center>
+
 <br />
 <br />
 
