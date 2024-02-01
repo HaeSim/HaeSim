@@ -1,5 +1,5 @@
 <p align="center"><a href="https://HaeSim.github.io"><img width="30%" src="https://avatars.githubusercontent.com/u/23281453?v=4"></a></P>
-<p align="center">⇧ Click here and go to my blog</p>
+
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaeSim&count_bg=%233D71C8&title_bg=%23434523&icon=&icon_color=%23FFFFFF&title=visits&edge_flat=true"/></a></p>
 <br />
