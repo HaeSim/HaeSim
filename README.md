@@ -9,8 +9,6 @@ Hi there :) I'm a self-taught Web Engineer from Korea.
 
 **About me**
 
-- 💼 I'm working for Web Engineer at [LDCC(LOTTE DATA COMMUNICATION COMPANY)](https://www.ldcc.co.kr/)
-
 - ❤️ I love writing Javascript, and making experimental prototypes.
 
 - 💬 Ask me about anything [here](https://github.com/HaeSim/HaeSim/issues)
